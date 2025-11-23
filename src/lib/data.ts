@@ -40,5 +40,5 @@ export const personalInfo = {
   github: 'https://github.com/imbubb4',
   linkedin: 'https://linkedin.com/in/tuusuario',
   siteUrl: 'https://tuportafolio.com',
-  avatar: '/adrian.jpg',
+  avatar: '/Foto_adrian.png',
 };
